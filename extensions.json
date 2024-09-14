@@ -9,7 +9,7 @@
     "changelog": "https://carizon.feishu.cn/wiki/OG0gwiGKTiEJgrk4VNtcesfpnqd",
     "license": "MIT",
     "version": "1.0.0",
-    "sha256sum": "carizonf8ed7c420ca6e541196bca608661c0c1a81cd1f768c565c72a55a63c8",
+    "sha256sum": "c54cfbfb852a717056c7327e41a1470aecc1e60790c14b15b6808802df058ffd",
     "foxe": "https://jfrog.carizon.work/ui/native/Tools/CarizonViz-extensions/carizon.carizon-diagnostics-0.0.1.foxe",
     "keywords": ["carizon", "panel", "diagnostics"]
   },
