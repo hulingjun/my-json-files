@@ -10,7 +10,7 @@
     "license": "MIT",
     "version": "1.0.0",
     "sha256sum": "c54cfbfb852a717056c7327e41a1470aecc1e60790c14b15b6808802df058ffd",
-    "foxe": "https://jfrog.carizon.work/ui/native/Tools/CarizonViz-extensions/carizon.carizon-diagnostics-0.0.1.foxe",
+    "foxe": "https://github.com/hulingjun/my-json-files/raw/main/carizon.carizon-diagnostics-0.0.1.foxe",
     "keywords": ["carizon", "panel", "diagnostics"]
   },
   {
